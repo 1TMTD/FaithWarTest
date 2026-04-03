@@ -1,0 +1,59 @@
+### **Regions (10 Regions)**
+1.  **Light Domain (Svitliy Kray):** Majestic white temples, golden sunlight, ethereal architecture, divine atmosphere.
+2.  **Dark Forest (Temniy Lis):** Cursed lands, deep shadows, mystical runes carved on ancient tree bark, eerie ambiance.
+3.  **Mountain Peaks (Horski Vershyny):** Snow-capped summits, magical crystals, harsh climate, solitary hermit figures.
+4.  **Golden Coast (Zolote Uzberezhzhia):** Maritime ports, sun-drenched treasures, luxurious diplomatic residences, sparkling water.
+5.  **Burning Desert (Palaiucha Pustelia):** Fiery sands, ruins of ancient civilizations, massive sandstorms, scorched earth.
+6.  **Silent Swamps (Tykhy Bolota):** Isolated region, sacred marsh flora, thick bluish fog, mysterious atmosphere.
+7.  **Silver Plains (Sribni Rivnyny):** Endless fields of silver wheat, agricultural serenity, bountiful harvests.
+8.  **Shadow Valley (Tini Dolyny):** Mystical spirits, veil of sorrow, play of shadows between jagged rocks.
+9.  **Forest Depths (Lisovi Hlybyny):** Sacred sanctuary forest, healing herbs, feeling of spiritual rebirth.
+10. **Deep Lakes (Hlyboki Ozera):** Island settlements, mystical water festivals, mirrored water surface.
+
+### **Archetypes as Human States (7 Archetypes)**
+11. **Gosha (Solitude & Kindness):** Soft inner light in the eyes, expression of gentle kindness amidst solitude.
+12. **Lina (Fear & Dream):** Inner struggle between paralyzing fear and a grand dream, cinematic emotional depth.
+13. **Tim (Shame & Acceptance):** Path of self-acceptance through overcoming shame, unique child-like silhouette.
+14. **Mia (Search for Meaning):** Philosophical quest for the essence of being, contemplating infinity.
+15. **Bobo (Anger & Compassion):** Transformation of destructive rage into the healing energy of empathy.
+16. **Nika (Loss & Memory):** Warm memory as an inner treasure after painful loss, melancholic peace.
+17. **Kira (Envy & Uniqueness):** Realizing self-worth by letting go of envy, radiant individuality.
+
+### **Regional Legends**
+18. **Legend of Light Domain:** Sun god Dazhbog gifting humanity the fire of knowledge.
+19. **Legend of Dark Forest:** Cunning spirit Leshy leading travelers astray through shifting paths.
+20. **Thunder Duels of Perun:** Thunder god shattering rocks at the Mountain Peaks with lightning.
+21. **Sea King:** Master of waves and underwater treasures of the Golden Coast.
+22. **Firebird Rarog:** Rebirth from ashes in the heart of the Burning Desert.
+23. **Vodianoy of Silent Swamps:** Water spirit luring the unwary into the deep mist.
+24. **Polevik of Silver Plains:** Field spirit blessing hardworking farmers and golden harvests.
+25. **Chort of Shadow Valley:** Demon of chaos teaching the balance between light and darkness.
+26. **Kikimora of Forest Depths:** Spirit weaver of destinies among sacred ancient trees.
+27. **Rusalkas of Deep Lakes:** Water souls granting prophecies to the chosen ones.
+
+### **Artistic Styles**
+28. **Studio Ghibli Style:** Soft watercolor contours, natural beige and green palette, nostalgic feel.
+29. **Magical Realism:** Coexistence of mundane objects with ethereal magical glows, dreamlike atmosphere.
+30. **Mental Portal Style:** Recursive patterns, distortions, effect of reality dissolving into fractals.
+31. **Zero State Style:** Absolute symmetry, minimalism, monochrome palette, deep stillness.
+32. **Soul Resonance Style:** Overlapping transparent layers, interactive color fields, high-frequency energy.
+33. **Metaphysical Realism:** Impossible perspectives, surreal lighting, transcendent forms.
+34. **Liminal Space:** Transitional states of consciousness, empty rooms, feeling of being on the edge.
+35. **Cyber-Mysticism:** Fusion of technological nodes with ancient spiritual symbols.
+36. **Digital Fresco Style:** Modern interpretation of classic mural techniques, rich textures.
+37. **Ephemeral Art:** Images formed from smoke, clouds, and light leaks, transient beauty.
+
+### **Artifacts & Concepts**
+38. **Candle of Faith:** Small artifact providing a bonus to prayer success, warm flickering flame.
+39. **Amulet of Peace:** Object reducing the chance of NPC revolts in the city, calming aura.
+40. **Bells of Unity:** Medium artifact for strengthening group raids, resonating sound waves.
+41. **Black Idol:** Dark relic doubling faith generation at night, ominous presence.
+42. **Heart of Light:** Legendary protective dome over an entire region, blinding brilliance.
+43. **Shadow Throne:** Symbol of power allowing the manipulation of global events.
+44. **Apocalypse Key:** Artifact that fundamentally changes the laws of the game world.
+45. **Emotional Landscape:** Rocks that "weep" and trees twisted by the inhabitants' fear.
+46. **Soul Garden:** Visualization of cultivating inner peace and creative urge.
+47. **Reality Breach Ritual:** 100th-level word magic rewriting the laws of the universe.
+48. **The Spark (Messiah):** Birth of a new player in an abstract scene of first light.
+49. **Original Face Koan:** Visualization of searching for the true "Self" beyond the illusion of ego.
+50. **Creator Level:** State of absolute freedom and realization of cosmic unity.
