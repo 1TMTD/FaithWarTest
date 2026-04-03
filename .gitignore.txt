@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Results
+results/
+*.png
+*.jpg
+*.zip
+
+# Virtual environments
+venv/
+.env/
+
+# System files
+.DS_Store
+Thumbs.db
