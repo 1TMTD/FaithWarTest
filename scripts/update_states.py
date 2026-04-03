@@ -1,29 +1,19 @@
-import requests
-import time
-import csv
+from fastapi import FastAPI
+import random, time
 
-# Відкриваємо файл для логування
-with open("logs/simulation.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(["Hour", "avg_V", "avg_E", "avg_S", "avg_T"])
+app = FastAPI()
 
-    # Симуляція на 24 години
-    for hour in range(24):
-        # Запит до FastAPI-сервера
-        r = requests.get("http://127.0.0.1:8000/pulse").json()
-        adepts = r["adepts"]
+adepts = [{"id": i, "V": random.uniform(0.05, 0.2), "E": 0.1, "S": 0.1, "T": 0.0} for i in range(300)]
 
-        # Обчислення середніх значень
-        avg_V = sum(a["V"] for a in adepts) / len(adepts)
-        avg_E = sum(a["E"] for a in adepts) / len(adepts)
-        avg_S = sum(a["S"] for a in adepts) / len(adepts)
-        avg_T = sum(a["T"] for a in adepts) / len(adepts)
+def update_states():
+    for a in adepts:
+        delta_V = a["V"] * (1 - a["S"])
+        delta_E = a["E"] * random.uniform(0.9, 1.1)
+        delta_S = a["S"] + random.uniform(-0.02, 0.05)
+        delta_T = a["T"] + (a["S"] > 0.7) * 0.05
+        a["V"], a["E"], a["S"], a["T"] = delta_V, delta_E, delta_S, delta_T
+    return adepts
 
-        # Вивід у консоль
-        print(f"Hour {hour}: V={avg_V:.3f}, E={avg_E:.3f}, S={avg_S:.3f}, T={avg_T:.3f}")
-
-        # Запис у CSV
-        writer.writerow([hour, avg_V, avg_E, avg_S, avg_T])
-
-        # Пауза між циклами
-        time.sleep(1)  # для швидкого тесту; заміни на 3600 для реальної години
+@app.get("/pulse")
+def pulse():
+    return {"timestamp": time.time(), "adepts": update_states()}
