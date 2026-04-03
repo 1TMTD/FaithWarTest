@@ -6,7 +6,7 @@ from datetime import datetime
 pipe = StableDiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5").to("cuda")
 
 # Читаємо промти
-with open("prompts/prompts.txt", "r", encoding="utf-8") as f:
+with open("prompts/lowrefs.txt", "r", encoding="utf-8") as f:
     prompts = [line.strip() for line in f if line.strip()]
 
 # Папка для результатів
